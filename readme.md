@@ -1,1 +1,1 @@
-:tada: ## Game contract
+## :tada: Game contract
